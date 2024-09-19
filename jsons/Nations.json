@@ -1,38 +1,102 @@
-[
+[ 
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
-		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
-		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
-		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+	"name": "Canada",
+	"leaderName": "Justin Trudeau",
+	"declaringWar": "Give up, it's over for you!",
+	"attacked": "You want to play? Very, very well!",
+	"defeated": "My people will avenge you!",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
-		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+	"neutralHello": "How are you doing?",
+	"neutralLetsHearIt": ["Go on.", "What do you say?", "You may begin."],
+	"neutralNo": ["We absolutely refuse.", "No!", "I refuse."],
+	"neutralYes": ["Very good.", "Of course, yes.", "That is very good."],
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	"hateHello": "What do you want now?",
+	"hateLetsHearIt": ["Speak!", "What do you say?", "Go on."],
+	"hateNo": ["That is not possible!", "We are not agreeing to that!", "I beg your pardon?"],
+	"hateYes": ["That is fine.", "That is good enough.", "Very well..."],
+
+	"afterPeace": "Very well, all that fighting was getting boring anyway.",
+	"tradeRequest": "We bestow you the honor of this trade offer.",
+
+	"outerColor": [255, 0, 0],  // Red, representing Canada's flag
+	"innerColor": [255, 255, 255],  // White, also from the Canadian flag
+	"unique": "MANIFEST_DESTINY",
+	"cities": ["Toronto", "Vancouver", "Montreal", "Calgary", "Ottawa", "Edmonton", "Quebec City", "Winnipeg", "Hamilton", "Halifax"]
 	}
+	{
+	"name": "Mexico",
+	"leaderName": "Andrés Manuel López Obrador",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 104, 71],
+	"innerColor": [255, 255, 255],
+	"unique": "AZTEC_SPIRIT",
+	"cities": ["Mexico City", "Guadalajara", "Monterrey", "Puebla", "Tijuana", "León", "Cancún", "Mérida", "Toluca", "Chihuahua"]
+        }
+	{
+	"name": "Nicaragua",
+	"leaderName": "Daniel Ortega",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 51, 153],  // Blue, representing the Nicaraguan flag
+	"innerColor": [255, 255, 255],  // White, also from the Nicaraguan flag
+	"unique": "NICARAGUAN_RESOLVE",
+	"cities": ["Managua", "León", "Granada", "Masaya", "Estelí", "Chinandega", "Matagalpa", "Jinotega", "Rivas", "Bluefields"]
+        }
+	{
+	"name": "Panama",
+	"leaderName": "Laurentino Cortizo",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 82, 180],  // Blue, representing Panama's flag
+	"innerColor": [255, 255, 255],  // White, also from the Panamanian flag
+	"unique": "ISTHMIAN_CROSSROADS",
+	"cities": ["Panama City", "Colón", "David", "Santiago", "Chitré", "La Chorrera", "Las Tablas", "Penonomé", "Bocas del Toro", "Almirante"]
+        }
 ]
