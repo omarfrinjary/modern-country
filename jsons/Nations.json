@@ -599,5 +599,80 @@
 	"unique": "LAND OF THE MOORS",
 	"cities": ["Nouakchott", "Nouadhibou", "Rosso", "Kaédi", "Kiffa", "Atar", "Zouérat", "Selibaby", "Aleg", "Boutilimit"]
 }
+{
+	"name": "Ethiopia",
+	"leaderName": "Abiy Ahmed",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 102, 204], // Blue from the Ethiopian flag
+	"innerColor": [255, 204, 0], // Yellow from the Ethiopian flag
+	"unique": "LAND OF ORTHODOXY",
+	"cities": ["Addis Ababa", "Dire Dawa", "Mekelle", "Gondar", "Bahir Dar", "Awassa", "Jimma", "Harar", "Debre Birhan", "Dessie"]
+}
+{
+	"name": "Nigeria",
+	"leaderName": "Bola Ahmed Tinubu",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 167, 55], // Green from the Nigerian flag
+	"innerColor": [255, 255, 255], // White from the Nigerian flag
+	"unique": "THE GIANT OF AFRICA",
+	"cities": ["Abuja", "Lagos", "Port Harcourt", "Ibadan", "Kaduna", "Kano", "Benin City", "Enugu", "Jos", "Owerri"]
+}
+{
+	"name": "Somalia",
+	"leaderName": "Hassan Sheikh Mohamud",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 102, 204], // Blue from the Somali flag
+	"innerColor": [255, 255, 255], // White from the Somali flag
+	"unique": "HORN OF AFRICA",
+	"cities": ["Mogadishu", "Hargeisa", "Bosaso", "Kismayo", "Baidoa", "Galkayo", "Berbera", "Burao", "Jowhar", "Luuq"]
+}
 
 ]
