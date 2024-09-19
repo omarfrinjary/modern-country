@@ -424,5 +424,80 @@
 	"unique": "LAND_OF_A_THOUSAND_LAKES",
 	"cities": ["Helsinki", "Espoo", "Tampere", "Vantaa", "Oulu", "Turku", "Jyväskylä", "Lahti", "Kuopio", "Pori"]
         }
-	
+	{
+	"name": "Libya",
+	"leaderName": "Abdelhamid Dbeibeh",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 102, 51],   // Green from the Libyan flag
+	"innerColor": [255, 0, 0],     // Red from the Libyan flag
+	"unique": "LAND_OF_THE_BLACK_MOUNTAINS",
+	"cities": ["Tripoli", "Benghazi", "Misrata", "Tarhouna", "Zliten", "Sirte", "Al Khums", "Tobruk", "Derna", "Sebha"]
+        }
+{
+	"name": "Algeria",
+	"leaderName": "Abdelmadjid Tebboune",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 122, 51],   // Green from the Algerian flag
+	"innerColor": [255, 255, 255], // White from the Algerian flag
+	"unique": "LAND_OF_THE_SAHARA",
+	"cities": ["Algiers", "Oran", "Constantine", "Annaba", "Blida", "Biskra", "Batna", "Tlemcen", "Sétif", "El Oued"]
+}
+{
+	"name": "Morocco",
+	"leaderName": "Aziz Akhannouch",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [206, 17, 38],  // Red from the Moroccan flag
+	"innerColor": [255, 255, 255], // White from the Moroccan flag
+	"unique": "KINGDOM_OF_THE_ATLAS",
+	"cities": ["Rabat", "Casablanca", "Marrakech", "Fes", "Tanger", "Agadir", "Oujda", "Meknes", "Kenitra", "Safi"]
+}
+
 ]
