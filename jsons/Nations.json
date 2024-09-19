@@ -674,5 +674,80 @@
 	"unique": "HORN OF AFRICA",
 	"cities": ["Mogadishu", "Hargeisa", "Bosaso", "Kismayo", "Baidoa", "Galkayo", "Berbera", "Burao", "Jowhar", "Luuq"]
 }
+{
+	"name": "Democratic Republic of the Congo",
+	"leaderName": "Félix Tshisekedi",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 56, 168], // Blue from the DRC flag
+	"innerColor": [255, 213, 0], // Yellow from the DRC flag
+	"unique": "HEART OF AFRICA",
+	"cities": ["Kinshasa", "Lubumbashi", "Mbuji-Mayi", "Kisangani", "Kananga", "Goma", "Tshuapa", "Bukavu", "Tshikapa", "Kolwezi"]
+}
+{
+	"name": "South Africa",
+	"leaderName": "Cyril Ramaphosa",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 32, 91], // Blue from the South African flag
+	"innerColor": [255, 204, 0], // Yellow from the South African flag
+	"unique": "RAINBOW_NATION",
+	"cities": ["Pretoria", "Cape Town", "Johannesburg", "Durban", "Port Elizabeth", "Bloemfontein", "Kimberley", "Nelspruit", "Pietermaritzburg", "East London"]
+}
+{
+	"name": "Madagascar",
+	"leaderName": "Andry Rajoelina",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [255, 0, 0], // Red from the Malagasy flag
+	"innerColor": [255, 255, 255], // White from the Malagasy flag
+	"unique": "ISLAND_OF_LEMURS",
+	"cities": ["Antananarivo", "Toamasina", "Antsirabe", "Fianarantsoa", "Mahajanga", "Toliara", "Antsiranana", "Diego Suarez", "Ambatobe", "Morondava"]
+}
 
 ]
