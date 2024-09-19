@@ -799,5 +799,55 @@
 	"unique": "HISTORICAL_SAND",
 	"cities": ["Amman", "Zarqa", "Irbid", "Ajloun", "Madaba", "Karak", "Tafila", "Mafraq", "Salt", "Aqaba"]
 }
+{
+	"name": "Afghanistan",
+	"leaderName": "Hibatullah Akhundzada",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 0, 0],  // Black
+	"innerColor": [255, 255, 255],  // White
+	"unique": "HINDUKUSH_PRIDE",
+	"cities": ["Kabul", "Kandahar", "Herat", "Mazar-i-Sharif", "Jalalabad", "Ghazni", "Bamiyan", "Badakhshan", "Logar", "Paktia"]
+}
+{
+	"name": "Kazakhstan",
+	"leaderName": "Kassym-Jomart Tokayev",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 114, 178],  // Blue from the Kazakh flag
+	"innerColor": [255, 255, 0],   // Yellow from the Kazakh flag
+	"unique": "STEPPE_PRIDE",
+	"cities": ["Astana", "Almaty", "Shymkent", "Karaganda", "Aktobe", "Pavlodar", "Ust-Kamenogorsk", "Atyrau", "Semey", "Taraz"]
+}
 
 ]
