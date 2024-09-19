@@ -749,5 +749,55 @@
 	"unique": "ISLAND_OF_LEMURS",
 	"cities": ["Antananarivo", "Toamasina", "Antsirabe", "Fianarantsoa", "Mahajanga", "Toliara", "Antsiranana", "Diego Suarez", "Ambatobe", "Morondava"]
 }
+{
+	"name": "Syria",
+	"leaderName": "Bashar al-Assad",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [206, 17, 38], // Red from the Syrian flag
+	"innerColor": [255, 255, 255], // White from the Syrian flag
+	"unique": "LAND_OF_ELOQUENT_ORATORS",
+	"cities": ["Damascus", "Aleppo", "Homs", "Latakia", "Tartus", "Daraa", "Deir ez-Zor", "Raqqa", "Qamishli", "Hasakah"]
+}
+{
+	"name": "Jordan",
+	"leaderName": "Bashar al-Maliki",
+	"declaringWar": "Surrender now, or face defeat!",
+	"attacked": "So, you’ve chosen to fight? Excellent choice!",
+	"defeated": "Our people will never forget this injustice!",
+
+	"neutralHello": "How are things going?",
+	"neutralLetsHearIt": ["Go ahead.", "What’s on your mind?", "Let’s hear it."],
+	"neutralNo": ["Absolutely not.", "No way.", "We refuse."],
+	"neutralYes": ["Agreed.", "Yes, we can accept that.", "That works for us."],
+
+	"hateHello": "What do you want this time?",
+	"hateLetsHearIt": ["Say what you have to say.", "What now?", "Go on, then."],
+	"hateNo": ["That’s out of the question!", "We’ll never agree to that!", "You must be joking."],
+	"hateYes": ["Fine.", "That’s acceptable.", "Very well, then."],
+
+	"afterPeace": "Alright, enough with the fighting. Let’s move forward.",
+	"tradeRequest": "We present this trade offer to you, consider it wisely.",
+
+	"outerColor": [0, 114, 206], // Blue from the Jordanian flag
+	"innerColor": [206, 17, 38], // Red from the Jordanian flag
+	"unique": "HISTORICAL_SAND",
+	"cities": ["Amman", "Zarqa", "Irbid", "Ajloun", "Madaba", "Karak", "Tafila", "Mafraq", "Salt", "Aqaba"]
+}
 
 ]
